@@ -374,6 +374,7 @@ add address=query.prod.cms.rt.microsoft.com list=NINJAONE
 add address=secure-appldnld.apple.com list=NINJAONE
 add address=secure.nomadesk.com list=NINJAONE
 add address=statics.teams.cdn.office.net list=NINJAONE
+add address=cdn.office.net list=NINJAONE
 add address=support1.uvnc.com list=NINJAONE
 add address=swupdate.openvpn.org list=NINJAONE
 add address=swupdl.adobe.com list=NINJAONE
@@ -438,3 +439,5 @@ add address=ingestors-us.bmdr.bitdefender.com list=NINJAONE
 add address=ingestors-ap.bmdr.bitdefender.com list=NINJAONE
 add address=download.bitdefender.com list=NINJAONE
 add address=sandbox-portal.gravityzone.bitdefender.com list=NINJAONE
+add address=time.windows.com list=NINJAONE
+add address=twc.trafficmanager.net list=NINJAONE
