@@ -24,7 +24,7 @@ add address=agent-eu-central.ninjarmm.com list=NINJAONE
 add address=fts-prod-frankfurt.ninjarmm.com list=NINJAONE
 add address=rtc-eu-central-1.ninjarmm.com list=NINJAONE
 add address=agent-tun-euc-0.ninjarmm.com list=NINJAONE
-add address=ninjabuilds.s3.amazonaws.com/ list=NINJAONE
+add address=ninjabuilds.s3.amazonaws.com list=NINJAONE
 add address=oc.ninjarmm.com list=NINJAONE
 add address=agent-oc.ninjarmm.com list=NINJAONE
 add address=rtc-ap-southeast-2-0.ninjarmm.com list=NINJAONE
@@ -37,7 +37,7 @@ add address=tun-ca-central-1.ninjarmm.com list=NINJAONE
 add address=connect-ca-central-s1.ninjarmm.com list=NINJAONE
 add address=connect-ca-central-s2.ninjarmm.com list=NINJAONE
 add address=connect-ca-central-s3.ninjarmm.com list=NINJAONE
-add address=ninjauploads.s3.amazonaws.com/ list=NINJAONE
+add address=ninjauploads.s3.amazonaws.com list=NINJAONE
 add address=fts-1.us2.ninjarmm.com list=NINJAONE
 add address=fts-prod-oregon-1.ninjarmm.com list=NINJAONE
 add address=fts-prod-oregon-2.ninjarmm.com list=NINJAONE
@@ -441,3 +441,4 @@ add address=download.bitdefender.com list=NINJAONE
 add address=sandbox-portal.gravityzone.bitdefender.com list=NINJAONE
 add address=time.windows.com list=NINJAONE
 add address=twc.trafficmanager.net list=NINJAONE
+add address=lockhart-grpc.ninjarmm.com list=NINJAONE
